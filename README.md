@@ -1,1 +1,1 @@
-Smart contract develope
+Smart contract developer
